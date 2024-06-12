@@ -1,6 +1,7 @@
 Navigation
 ==========
-
+Subtopic
+~~~~~~~~~~
 Navigation subsystem is crucial for the rover to move around on the Martian surface while avoiding obstacles and reaching its destinations accurately. It typically consists of sensors, software, and algorithms for localization, path planning, and obstacle avoidance. Key components include:
 
 - IMU (Inertial Measurement Unit): Measures the rover's orientation and acceleration.
